@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imgur-gallery/static/css/main.7057ca93.css",
+    "main.js": "/imgur-gallery/static/js/main.09217044.js",
+    "index.html": "/imgur-gallery/index.html",
+    "main.7057ca93.css.map": "/imgur-gallery/static/css/main.7057ca93.css.map",
+    "main.09217044.js.map": "/imgur-gallery/static/js/main.09217044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7057ca93.css",
+    "static/js/main.09217044.js"
+  ]
+}
