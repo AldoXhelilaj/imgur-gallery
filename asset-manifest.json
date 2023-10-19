@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7057ca93.css",
-    "main.js": "/static/js/main.5bef34d0.js",
-    "index.html": "/index.html",
-    "main.7057ca93.css.map": "/static/css/main.7057ca93.css.map",
-    "main.5bef34d0.js.map": "/static/js/main.5bef34d0.js.map"
+    "main.css": "/imgur-gallery/static/css/main.7057ca93.css",
+    "main.js": "/imgur-gallery/static/js/main.5bef34d0.js",
+    "index.html": "/imgur-gallery/index.html",
+    "main.7057ca93.css.map": "/imgur-gallery/static/css/main.7057ca93.css.map",
+    "main.5bef34d0.js.map": "/imgur-gallery/static/js/main.5bef34d0.js.map"
   },
   "entrypoints": [
     "static/css/main.7057ca93.css",
