@@ -22,7 +22,7 @@ const GalleryCard = ({ item, isSingle }: Props) => {
                 <img
                     className="w-full h-full object-cover"
                     src={item.images[0].link}
-                    alt={item.title}
+                    alt={item?.title}
                 />
             );
         } else if (isVideo(item.images[0].link)) {
@@ -30,7 +30,7 @@ const GalleryCard = ({ item, isSingle }: Props) => {
         } else {
             return null;
         }
-    }, [isImage, isVideo, item.images, item.title]);
+    }, [isImage, isVideo, item.images, item?.title]);
 
     return isSingle ? (
         renderMedia

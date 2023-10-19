@@ -2,7 +2,7 @@
   "name": "img-gallery-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aldoxhelilaj.github.io/imgur-gallery/",
+  "homepage": "https://aldoxhelilaj.github.io/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
@@ -28,7 +28,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy" : "npm run build",
-    
     "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {

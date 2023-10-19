@@ -15,7 +15,7 @@ const Gallery = () => {
     <GalleryCard isSingle item={data} />
 
     <div className="meta-data">
-      <h1 className="text-4xl font-bold">{data.title}</h1>
+      <h1 className="text-4xl font-bold">{data?.title}</h1>
 
       {data.tags && data.tags.length !== 0 && (
         <div className="mt-6">
