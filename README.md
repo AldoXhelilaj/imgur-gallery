@@ -9,7 +9,7 @@ To get the frontend running locally:
 
 Local web server will use port 3000. but for some reason i can only use the api in my static address http://10.3.0.149:3000/
 
-LIVE SITE: https://aldoxhelilaj.github.io/imgur-gallery/ but there is the same problem as in localhost
+LIVE SITE: [https://aldoxhelilaj.github.io/imgur-gallery/](https://imgur-gallery-xi.vercel.app/)
 
 
 
